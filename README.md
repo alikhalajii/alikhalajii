@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<link rel="icon" href="https://raw.githubusercontent.com/alikhalajii/uploads/refs/heads/main/wp-img/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="style.css">
+=======
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/alikhalajii/uploads/refs/heads/main/wp-img/favicon.ico">
 
 <style>
@@ -117,10 +121,11 @@
     }
   }
 </style>
+>>>>>>> 3f6954a93eac8b5f7ac3dd7f04bad7253b800ea5
 
 <div class="content">
   <div style="text-align: center;">
-    <h1><strong>✍️ Writing my master’s thesis</strong></h1>
+    <h1><strong></strong></h1>
   </div>
 
   <h3>Hi there 👋</h3>
@@ -134,18 +139,17 @@
   </div>
 
   <div class="flex-container">
-    <div class="icon">✍️</div>
+    <div class="icon">🎓</div>
     <div>
+<<<<<<< HEAD
+      Just finished my master’s thesis on responsible generative AI and safety concerns in vision datasets, conducted at the 
+      <a href="https://ml-research.github.io" target="_blank">AIML Lab, TU Darmstadt.</a>
+=======
       Currently working on my master thesis (until November 2024) focused on responsible generative ai and safety concerns within the vision datasets domain by the <a href="https://ml-research.github.io" target="_blank">AIML Lab</a>, TU Darmstadt.
+>>>>>>> 3f6954a93eac8b5f7ac3dd7f04bad7253b800ea5
     </div>
   </div>
 
-  <div class="flex-container">
-    <div class="icon">👨‍💻</div>
-    <div>
-      and a part-time ai software developer at <a href="https://www.faz-rechte.de" target="_blank">F.A.Z. Archive & Rights Management</a>.
-    </div>
-  </div>
 
   <div class="flex-container">
     <div class="icon">🤝</div>
