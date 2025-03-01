@@ -12,7 +12,15 @@ Just finished my master’s thesis on responsible generative AI and safety conce
 I'm open to full-time roles in AI domains, especially deploying NLP-based methods in cloud environments as I transition from my thesis work.
 
 ## 📫 Contact Me
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](http://www.linkedin.com/in/alikhalaji)
-- [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/alikhalajii)
-- [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/ale-dp)
-- 📧 Email: [ali@khalaji.de](mailto:ali@khalaji.de)
+
+<a href="http://www.linkedin.com/in/alikhalaji">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20">
+</a>
+<a href="https://github.com/alikhalajii">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">
+</a>
+<a href="https://huggingface.co/ale-dp">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="20">
+</a>
+
+📧 Email: [ali@khalaji.de](mailto:ali@khalaji.de)
