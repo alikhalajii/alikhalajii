@@ -95,7 +95,7 @@ ___
 It seems you're really interested in learning more – I'm glad you're here! Feel free to reach out, and let’s connect and chat.
 
 <p align="left">
-  <a href="mailto:ali.khalaji@gmail.com" target="_blank">
+  <a href="mailto:khalaji.ali@gmx.de" target="_blank">
     <img align="center" src="assets/mail.png" alt="Email" height="40" width="40" 
          title="Click to send an email" 
          style="transition: transform 0.3s; cursor: pointer;" 
