@@ -1,31 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-## 👀 INTERESTS
-**Python**, **Machine Learning** and **Generative AI**. I’m particularly excited about applying NLP techniques to automate and enhance business processes, such as creating **RAG systems**.
-
-## 🤝 Looking for Opportunities
-
-I’m passionate about **innovation**, **collaboration**, and **continuous learning**. I’m currently seeking a **dynamic role in Python/AI** where I can contribute to groundbreaking advancements and be part of forward-thinking teams.
-
+## 👀 Interests & Opportunities
+Passionate about **Python**, **Machine Learning**, and **Generative AI**, with a focus on applying NLP to automate and enhance business processes (e.g., RAG systems). Seeking a dynamic role in Python/AI to drive innovation, collaboration, and continuous learning.
 ___
 
 ## 💼 EXPERIENCES
 
-I bring several years of experience in both **development** (including Python programming for Generative AI, RAG systems, and data analysis) and **IT-Infrastructure & support** roles (Cloud Administration and Network Engineering).
+Several years of experience in Python development (Generative AI, RAG systems, data analysis) and IT infrastructure & support (cloud administration, network engineering).
 
 ___
 
-## 🎓 EDUCATION
+## 🎓 Education  
 
-**M.Sc. in Computer Science, Internet and Web-based Systems**  [<img src="assets/tud-transp.png" width=50 height=auto>](https://www.tu-darmstadt.de)   [Technical University of Darmstadt](https://www.tu-darmstadt.de)  
+**M.Sc. Computer Science, Internet and Web-based Systems**  
+[<img src="assets/tud-transp.png" width=50 height=auto>](https://www.tu-darmstadt.de) [Technical University of Darmstadt](https://www.tu-darmstadt.de)  
 
+📝 **Thesis:** At the [<img src="assets/aiml.png" width=15 height=auto> **AIML Lab**](https://ml-research.github.io), researched **Responsible Generative AI**, focusing on **ethical and safety aspects** of large-scale vision datasets. Applied **multimodal models** (CLIP, LLaVA) to guide **diffusion models** in latent space via **prompt translation**.  
+🔗 [Read more](https://github.com/alikhalajii/diffBased-DSAug-Safety)  
 
-📝 **Thesis:**  At the [<img src="assets/aiml.png" width=15 height=auto> **AIML Lab**](https://ml-research.github.io), I explored **Responsible Generative AI**, focusing on the **ethical and safety aspects** of large-scale vision datasets. I used **multimodal models** like **CLIP** and **LLaVA** to control **diffusion models** in the **latent space** via **prompt translation**.  
-🔗 [Read more](https://github.com/alikhalajii/diffBased-DSAug-Safety)
+**B.Sc. Computer Science, Software Engineering**  
+[<img src="assets/iauctb.png" width=20 height=auto>](https://ctb.iau.ir/eng/en) [Islamic Azad University, Tehran Branch](https://ctb.iau.ir/eng/en)  
 
-**B.Sc. in Computer Science, Software Engineering**   [<img src="assets/iauctb.png" width=20 height=auto>](https://ctb.iau.ir/eng/en)   [Islamic Azad University, Tehran Branch](https://ctb.iau.ir/eng/en)
+📝 **Thesis:** Designed a **Virtual University System** using **UML** and **RUP**, emphasizing scalable and maintainable architecture through structured models of **structure, behavior, and interaction**.  
 
-📝 **Thesis:**  Developed a **Virtual University System** software model using **UML** and **RUP**, focusing on creating a scalable and maintainable architecture through structured diagrams defining **structure**, **behavior**, and **interactions**.
 
 ___
 
