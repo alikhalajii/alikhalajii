@@ -11,7 +11,7 @@ ___
 
 ## 💼 EXPERIENCES
 
-I bring several years of experience in both **development** (including Python programming for Generative AI, RAG systems, and data analysis) and **support** roles (Cloud Administration and Network Engineering).
+I bring several years of experience in both **development** (including Python programming for Generative AI, RAG systems, and data analysis) and **IT-Infrastructure & support** roles (Cloud Administration and Network Engineering).
 
 ___
 
@@ -53,7 +53,7 @@ ___
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="SQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
@@ -79,7 +79,7 @@ ___
   </a>
 </p>
 
-
+<!--
 ___
 
 ## 🌐 LANGUAGES I SPEAK:
@@ -115,4 +115,4 @@ It seems you're really interested in learning more – I'm glad you're here! Fee
          onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </p>
-
+-->
